@@ -43,5 +43,9 @@ Aplikasi pengenalan wajah berbasis Python yang menggunakan metode **Euclidean Di
     cd AyuSaniatusSholihah
 3. Masuk ke
     cd /APLIKASI-NILAI-EIGEN-DAN-EIGEN-FACE-PADA-PENGENALAN-WAJAH/
-4. Jalankan aplikasi Streamlit: 
-    streamlit run app.py
+4. Jalankan main Streamlit: 
+    streamlit run main.py
+
+## Dokumentasi Program
+
+    
