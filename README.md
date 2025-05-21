@@ -46,6 +46,17 @@ Aplikasi pengenalan wajah berbasis Python yang menggunakan metode **Euclidean Di
 4. Jalankan main Streamlit: 
     streamlit run main.py
 
-## Dokumentasi Program
+## 👌Dokumentasi Program
+## Input (masukkan address folder dataset dan upload gambar)
+![dd](img/2.png)
+
+## Jika foto tidak dikenali, tambahkan threshold
+![dd](img/3.png)
+
+## Output 
+![dd](img/1.png)
+
+## Output setelah menambah threshold menunjukkan foto memiliki kemiripan dengan sesuai jarak euklidean 
+![dd](img/4.png)
 
     
