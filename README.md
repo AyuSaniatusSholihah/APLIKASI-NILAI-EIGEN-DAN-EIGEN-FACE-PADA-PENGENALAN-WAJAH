@@ -21,7 +21,7 @@ Aplikasi pengenalan wajah berbasis Python yang menggunakan metode **Euclidean Di
 
 ## 🗂️ Struktur Folder
 
-<pre> ```plaintext ## 🗂️ Struktur Folder ├── app.py # Program utama (Streamlit) ├── config.py # Konfigurasi nilai threshold step, dan maksimum ├── utils/ │ └── distance.py # Fungsi Euclidean distance ├── dataset/ │ ├── Orang1/ │ │ └── img1.jpg │ └── Orang2/ │ └── img2.jpg ├── screenshots/ │ └── hasil_deteksi.png ├── requirements.txt # Daftar dependensi Python └── README.md # Dokumentasi proyek ``` </pre>
+
 
 ## 🚀 Cara Menjalankan
 1. Clone repository ini:
