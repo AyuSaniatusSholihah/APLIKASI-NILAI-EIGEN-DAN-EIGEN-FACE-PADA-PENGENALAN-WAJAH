@@ -20,7 +20,18 @@ Aplikasi pengenalan wajah berbasis Python yang menggunakan metode **Euclidean Di
 - Streamlit (untuk antarmuka pengguna)
 
 ## 🗂️ Struktur Folder
-
+├── __pycache__/
+├── assets/
+├── dataset/
+├── images/
+│   └── sample_result.jpg
+├── dataset_loader.py
+├── eigen_utils.py
+├── face_recognition.py
+├── gui.py
+├── helpers.py
+├── main.py
+└── README.md
 
 
 ## 🚀 Cara Menjalankan
