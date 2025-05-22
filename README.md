@@ -33,6 +33,16 @@ Aplikasi pengenalan wajah berbasis Python yang menggunakan metode **Euclidean Di
 ├── main.py
 └── README.md
 
+## 📄 Deskripsi File
+
+- `dataset_loader.py` : Memuat dataset dari direktori.
+- `eigen_utils.py` : Fungsi utilitas untuk perhitungan Eigenfaces.
+- `face_recognition.py` : Logika utama untuk pengenalan wajah.
+- `gui.py` : Antarmuka pengguna menggunakan library GUI.
+- `helpers.py` : Fungsi bantu seperti normalisasi, resizing, dsb.
+- `main.py` : Entry point aplikasi.
+- `images/sample_result.jpg` : Contoh hasil pengenalan wajah.
+
 
 ## 🚀 Cara Menjalankan
 1. Clone repository ini:
