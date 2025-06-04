@@ -69,15 +69,20 @@ Aplikasi pengenalan wajah berbasis Python yang menggunakan metode **Euclidean Di
 
 ## 👌Dokumentasi Program
 ## Input (masukkan address folder dataset dan upload gambar)
-![dd](img/2.png)
-
-## Jika foto tidak dikenali, tambahkan threshold
-![dd](img/3.png)
-
-## Output 
 ![dd](img/1.png)
 
-## Output setelah menambah threshold menunjukkan foto memiliki kemiripan dengan sesuai jarak euklidean 
+## Hasil pengenalan wajah
+![dd](img/2.png)
+
+## Grafik nilai eigen 
+![dd](img/3.png)
+
+## Plot vektor eigenface
 ![dd](img/4.png)
 
+## Evaluasi akurasi model
+![dd](img/5.png)
+
+## Penjelasn evaluasi akurasi model
+![dd](img/6.png)
     
