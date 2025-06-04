@@ -6,9 +6,9 @@ Aplikasi pengenalan wajah berbasis Python yang menggunakan metode **Euclidean Di
 
 ## 📌 Konsep Utama
 
-- Awal dimulai dari threshold = 500
+- Awal dimulai dari threshold = 5000
 - Sistem membandingkan wajah input dengan data latih (dataset)
-- Jika tidak ditemukan wajah dengan jarak di bawah threshold, maka threshold dinaikkan secara bertahap (misal, +500)
+- Jika tidak ditemukan wajah dengan jarak di bawah threshold, maka threshold dinaikkan secara bertahap (misal, +5000)
 - Proses berulang hingga wajah yang paling mirip ditemukan, atau hingga threshold maksimum tercapai
 
 ## 🧠 Teknologi yang Digunakan
