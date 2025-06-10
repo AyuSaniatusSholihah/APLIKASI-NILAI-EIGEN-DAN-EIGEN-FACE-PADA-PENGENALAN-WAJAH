@@ -85,4 +85,6 @@ Aplikasi pengenalan wajah berbasis Python yang menggunakan metode **Euclidean Di
 
 ## Penjelasn evaluasi akurasi model
 ![dd](img/6.png)
+
+- Dokumentasi Youtube : https://youtu.be/vqpjz5sQZ5w
     
