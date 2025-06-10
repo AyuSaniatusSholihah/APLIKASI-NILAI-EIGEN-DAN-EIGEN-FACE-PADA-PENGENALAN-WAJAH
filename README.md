@@ -86,5 +86,12 @@ Aplikasi pengenalan wajah berbasis Python yang menggunakan metode **Euclidean Di
 ## Penjelasn evaluasi akurasi model
 ![dd](img/6.png)
 
-- Dokumentasi Youtube : https://youtu.be/vqpjz5sQZ5w
+- ## Dokumentasi Youtube :
+  https://youtu.be/vqpjz5sQZ5w
+  
+- ## Kelompok_3
+1.	AYU SANIATUS SHOLIHAH   : L0124005
+2.	FADHIL RUSADI           : L0124013
+3.	MUHAMAD NABIL FANNANI	: L0124135
+
     
